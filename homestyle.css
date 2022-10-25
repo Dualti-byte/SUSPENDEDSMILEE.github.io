@@ -3666,7 +3666,7 @@ img {
   height: auto;
   border: 6px solid white;
   border-radius: 25px;
-  position: absolute;
+  position: fixed;
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
